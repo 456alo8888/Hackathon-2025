@@ -1,0 +1,95 @@
+prompt_id,user_id,timestamp,prompt_text,model_used,response_text,latency_sec,feedback
+PROMPT000001,VP000032,2025-03-11 12:19:56,Đánh giá hiệu quả đào tạo chi nhánh DN tháng 2025-03-01,Grok 3,"Chi phí đào tạo DN tháng 2025-03-01: ~124M VND, 5.1% nhân viên G4 tham gia",8.0,Neutral
+PROMPT000002,VP000041,2025-06-26 11:12:14,Đánh giá hiệu quả đào tạo chi nhánh HN tháng 2025-06-01,Grok 3,"Chi phí đào tạo HN tháng 2025-06-01: ~190M VND, 5.2% nhân viên G2 tham gia",6.1,
+PROMPT000003,VP000069,2025-06-09 14:38:17,So sánh KPI trưởng phòng KH các chi nhánh tháng 2025-06-01,Grok 3,"KPI trưởng phòng KH tháng 2025-06-01: HCM=81.4, HN=81.2, SG=83.7, DN=84.4, CT=82.8",5.1,Positive
+PROMPT000004,VP000063,2025-06-16 08:27:37,Dự đoán chi phí lương SG_KT nếu tăng lương 6%,Grok 3,"Tổng chi phí lương SG_KT tháng 2025-06-01: ~279M VND, tăng 4.7% lên ~180M VND",1.6,Positive
+PROMPT000005,VP000046,2025-03-17 13:13:00,So sánh hiệu suất nhân viên G4 chi nhánh HCM tháng 2025-03-01,Grok 3,HCM_GD G4: KPI trung bình 78.2; HN_GD G4: KPI trung bình 74.9,3.9,Positive
+PROMPT000006,VP000045,2025-03-11 11:21:23,Phân tích biến động nhân sự chi nhánh HN tháng 2025-03-01,Grok 3,"Headcount_end HN tháng 2025-03-01: GD=3, KH=8, KT=11; hired=0, resigned=0",5.0,Positive
+PROMPT000007,VP000046,2025-01-23 09:59:59,Phân tích tỷ lệ nghỉ việc chi nhánh CT tháng 2025-01-01,Grok 3,Tỷ lệ nghỉ việc CT tháng 2025-01-01: 1/21 (5.6%),5.3,
+PROMPT000009,VP000005,2025-03-07 09:02:12,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-03-01,Grok 3,"KPI trưởng phòng KT tháng 2025-03-01: HCM=83.7, HN=84.7, SG=80.4, DN=82.1, CT=84.8",4.4,
+PROMPT000010,VP000061,2025-01-27 12:20:32,Đánh giá hiệu quả đào tạo chi nhánh DN tháng 2025-01-01,Grok 3,"Chi phí đào tạo DN tháng 2025-01-01: ~297M VND, 4.2% nhân viên G3 tham gia",5.7,Positive
+PROMPT000011,VP000066,2025-05-26 11:19:46,Dự đoán chi phí lương SG_GD nếu tăng lương 5%,Grok 3,"Tổng chi phí lương SG_GD tháng 2025-05-01: ~179M VND, tăng 5.0% lên ~270M VND",9.1,
+PROMPT000012,VP000053,2025-03-31 12:51:49,Dự đoán chi phí lương SG_KH nếu tăng lương 6%,Grok 3,"Tổng chi phí lương SG_KH tháng 2025-03-01: ~231M VND, tăng 4.9% lên ~181M VND",7.7,Positive
+PROMPT000013,VP000058,2025-03-06 09:30:49,Kế hoạch tuyển mới chi nhánh DN tháng 2025-03-01,Grok 3,"Kế hoạch tuyển mới DN tháng 2025-03-01: 9 KH, 10 KT, 0 GD",1.3,Negative
+PROMPT000014,VP000033,2025-05-19 16:17:23,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-05-01,Grok 3,"KPI trưởng phòng KT tháng 2025-05-01: HCM=81.7, HN=80.5, SG=83.7, DN=84.0, CT=84.9",5.9,
+PROMPT000015,VP000053,2025-01-08 09:11:57,So sánh KPI trưởng phòng GD các chi nhánh tháng 2025-01-01,Grok 3,"KPI trưởng phòng GD tháng 2025-01-01: HCM=84.0, HN=84.5, SG=83.4, DN=85.0, CT=83.1",6.4,
+PROMPT000016,VP000003,2025-02-17 15:42:23,KPI trung bình của phòng KH chi nhánh HCM tháng 2025-02-01,Grok 3,KPI trung bình HCM_KH tháng 2025-02-01: 70.7 (10 nhân viên),8.0,
+PROMPT000017,VP000045,2025-02-27 14:00:11,KPI trung bình của phòng GD chi nhánh DN tháng 2025-02-01,Grok 3,KPI trung bình DN_GD tháng 2025-02-01: 74.1 (5 nhân viên),5.1,
+PROMPT000018,VP000041,2025-03-03 10:27:49,Dự đoán chi phí lương DN_KH nếu tăng lương 11%,Grok 3,"Tổng chi phí lương DN_KH tháng 2025-03-01: ~100M VND, tăng 4.1% lên ~205M VND",4.3,Positive
+PROMPT000019,VP000039,2025-03-06 14:22:20,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-03-01,Grok 3,"KPI trưởng phòng KT tháng 2025-03-01: HCM=80.5, HN=81.0, SG=83.0, DN=84.3, CT=83.9",7.8,
+PROMPT000020,VP000069,2025-02-03 16:54:11,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-02-01,Grok 3,"KPI trưởng phòng KT tháng 2025-02-01: HCM=82.7, HN=84.2, SG=83.5, DN=84.5, CT=84.8",2.1,
+PROMPT000021,VP000019,2025-02-10 11:00:51,KPI trung bình của phòng GD chi nhánh HCM tháng 2025-02-01,Grok 3,KPI trung bình HCM_GD tháng 2025-02-01: 83.1 (8 nhân viên),6.6,
+PROMPT000022,VP000070,2025-03-05 09:21:23,KPI trung bình của phòng KH chi nhánh HN tháng 2025-03-01,Grok 3,KPI trung bình HN_KH tháng 2025-03-01: 76.7 (5 nhân viên),2.8,
+PROMPT000023,VP000060,2025-02-06 10:36:37,Phân tích biến động nhân sự chi nhánh SG tháng 2025-02-01,Grok 3,"Headcount_end SG tháng 2025-02-01: GD=3, KH=8, KT=11; hired=0, resigned=0",6.0,
+PROMPT000024,VP000049,2025-02-21 11:25:38,KPI trung bình của phòng KH chi nhánh HN tháng 2025-02-01,Grok 3,KPI trung bình HN_KH tháng 2025-02-01: 73.8 (10 nhân viên),9.5,
+PROMPT000025,VP000018,2025-03-17 12:57:19,Tính bonus trung bình phòng GD chi nhánh HCM tháng 2025-03-01,Grok 3,Bonus trung bình HCM_GD tháng 2025-03-01: ~0.7M VND/người,9.4,
+PROMPT000026,VP000049,2025-02-20 11:17:14,Dự đoán chi phí lương CT_KT nếu tăng lương 10%,Grok 3,"Tổng chi phí lương CT_KT tháng 2025-02-01: ~100M VND, tăng 5.0% lên ~309M VND",4.2,
+PROMPT000027,VP000055,2025-05-26 15:01:18,Kế hoạch tuyển mới chi nhánh SG tháng 2025-05-01,Grok 3,"Kế hoạch tuyển mới SG tháng 2025-05-01: 10 KH, 10 KT, 0 GD",7.0,
+PROMPT000028,VP000001,2025-06-09 11:55:49,Tính bonus trung bình phòng KH chi nhánh DN tháng 2025-06-01,Grok 3,Bonus trung bình DN_KH tháng 2025-06-01: ~1.6M VND/người,6.3,
+PROMPT000029,VP000054,2025-04-04 08:19:21,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-04-01,Grok 3,"KPI trưởng phòng KT tháng 2025-04-01: HCM=84.7, HN=82.9, SG=82.6, DN=84.2, CT=84.7",8.5,Positive
+PROMPT000030,VP000008,2025-04-07 14:55:48,Phân tích biến động nhân sự chi nhánh HCM tháng 2025-04-01,Grok 3,"Headcount_end HCM tháng 2025-04-01: GD=3, KH=9, KT=11; hired=2, resigned=0",9.2,
+PROMPT000031,VP000007,2025-02-06 14:53:21,Dự báo chi phí BHXH nếu tăng biên chế 12% chi nhánh SG,Grok 3,Chi phí BHXH SG tăng từ ~109M lên ~159M VND nếu tăng 5.9% biên chế,6.9,
+PROMPT000032,VP000027,2025-06-16 09:56:42,Tính bonus trung bình phòng KH chi nhánh HCM tháng 2025-06-01,Grok 3,Bonus trung bình HCM_KH tháng 2025-06-01: ~1.2M VND/người,9.8,
+PROMPT000033,VP000031,2025-01-07 10:15:33,Đánh giá hiệu quả đào tạo chi nhánh DN tháng 2025-01-01,Grok 3,"Chi phí đào tạo DN tháng 2025-01-01: ~243M VND, 5.3% nhân viên G4 tham gia",6.7,
+PROMPT000034,VP000006,2025-04-03 11:44:32,So sánh hiệu suất nhân viên G2 chi nhánh CT tháng 2025-04-01,Grok 3,CT_KH G2: KPI trung bình 74.3; DN_KH G2: KPI trung bình 78.3,3.2,
+PROMPT000035,VP000004,2025-03-24 08:17:29,Tính bonus trung bình phòng KT chi nhánh SG tháng 2025-03-01,Grok 3,Bonus trung bình SG_KT tháng 2025-03-01: ~1.9M VND/người,9.3,Positive
+PROMPT000036,VP000028,2025-06-19 11:43:40,Phân tích biến động nhân sự chi nhánh DN tháng 2025-06-01,Grok 3,"Headcount_end DN tháng 2025-06-01: GD=3, KH=8, KT=9; hired=1, resigned=0",1.5,
+PROMPT000037,VP000046,2025-05-19 11:02:30,Dự báo chi phí BHXH nếu tăng biên chế 14% chi nhánh HCM,Grok 3,Chi phí BHXH HCM tăng từ ~108M lên ~141M VND nếu tăng 4.4% biên chế,2.6,Positive
+PROMPT000038,VP000024,2025-04-21 10:56:20,Kế hoạch tuyển mới chi nhánh CT tháng 2025-04-01,Grok 3,"Kế hoạch tuyển mới CT tháng 2025-04-01: 9 KH, 11 KT, 0 GD",1.3,Neutral
+PROMPT000039,VP000007,2025-02-06 09:14:24,Dự đoán chi phí lương DN_KH nếu tăng lương 12%,Grok 3,"Tổng chi phí lương DN_KH tháng 2025-02-01: ~193M VND, tăng 4.9% lên ~305M VND",6.4,Neutral
+PROMPT000040,VP000056,2025-03-19 15:05:28,Kế hoạch tuyển mới chi nhánh HCM tháng 2025-03-01,Grok 3,"Kế hoạch tuyển mới HCM tháng 2025-03-01: 8 KH, 10 KT, 0 GD",7.1,Positive
+PROMPT000041,VP000053,2025-05-22 15:13:57,So sánh hiệu suất nhân viên G2 chi nhánh HCM tháng 2025-05-01,Grok 3,HCM_KH G2: KPI trung bình 72.3; SG_KH G2: KPI trung bình 76.7,1.7,
+PROMPT000042,VP000030,2025-02-11 10:28:05,Tính bonus trung bình phòng GD chi nhánh HN tháng 2025-02-01,Grok 3,Bonus trung bình HN_GD tháng 2025-02-01: ~1.9M VND/người,1.6,
+PROMPT000043,VP000056,2025-02-03 11:46:23,So sánh hiệu suất nhân viên G2 chi nhánh DN tháng 2025-02-01,Grok 3,DN_KT G2: KPI trung bình 76.5; SG_KT G2: KPI trung bình 73.2,4.5,Negative
+PROMPT000044,VP000039,2025-02-14 10:52:36,Phân tích tỷ lệ nghỉ việc chi nhánh HCM tháng 2025-02-01,Grok 3,Tỷ lệ nghỉ việc HCM tháng 2025-02-01: 0/22 (5.7%),6.9,
+PROMPT000045,VP000008,2025-06-16 13:01:55,So sánh KPI trưởng phòng KH các chi nhánh tháng 2025-06-01,Grok 3,"KPI trưởng phòng KH tháng 2025-06-01: HCM=84.2, HN=83.9, SG=80.1, DN=83.7, CT=81.6",2.5,
+PROMPT000047,VP000063,2025-04-14 13:28:30,Phân tích biến động nhân sự chi nhánh SG tháng 2025-04-01,Grok 3,"Headcount_end SG tháng 2025-04-01: GD=3, KH=8, KT=9; hired=2, resigned=0",7.5,
+PROMPT000048,VP000026,2025-03-06 12:24:45,Phân tích tỷ lệ nghỉ việc chi nhánh SG tháng 2025-03-01,Grok 3,Tỷ lệ nghỉ việc SG tháng 2025-03-01: 0/22 (4.4%),2.9,Positive
+PROMPT000049,VP000038,2025-06-02 08:00:05,Dự báo chi phí BHXH nếu tăng biên chế 6% chi nhánh HCM,Grok 3,Chi phí BHXH HCM tăng từ ~265M lên ~296M VND nếu tăng 4.7% biên chế,6.4,
+PROMPT000050,VP000018,2025-04-24 10:42:00,So sánh hiệu suất nhân viên G4 chi nhánh DN tháng 2025-04-01,Grok 3,DN_KT G4: KPI trung bình 79.3; HN_KT G4: KPI trung bình 79.6,4.6,
+PROMPT000051,VP000044,2025-03-10 14:26:04,Phân tích biến động nhân sự chi nhánh DN tháng 2025-03-01,Grok 3,"Headcount_end DN tháng 2025-03-01: GD=3, KH=8, KT=10; hired=0, resigned=0",8.9,Neutral
+PROMPT000052,VP000058,2025-02-19 09:47:34,Dự đoán chi phí lương DN_KH nếu tăng lương 12%,Grok 3,"Tổng chi phí lương DN_KH tháng 2025-02-01: ~242M VND, tăng 5.0% lên ~121M VND",5.2,
+PROMPT000054,VP000025,2025-05-05 08:51:33,Phân tích biến động nhân sự chi nhánh HN tháng 2025-05-01,Grok 3,"Headcount_end HN tháng 2025-05-01: GD=3, KH=8, KT=11; hired=2, resigned=0",8.7,
+PROMPT000055,VP000061,2025-05-07 12:03:56,So sánh hiệu suất nhân viên G3 chi nhánh CT tháng 2025-05-01,Grok 3,CT_KT G3: KPI trung bình 75.9; HCM_KT G3: KPI trung bình 77.3,4.2,Positive
+PROMPT000056,VP000027,2025-05-21 10:11:11,Dự báo chi phí BHXH nếu tăng biên chế 14% chi nhánh DN,Grok 3,Chi phí BHXH DN tăng từ ~169M lên ~194M VND nếu tăng 5.6% biên chế,6.2,
+PROMPT000057,VP000028,2025-01-20 08:22:25,Phân tích tỷ lệ nghỉ việc chi nhánh SG tháng 2025-01-01,Grok 3,Tỷ lệ nghỉ việc SG tháng 2025-01-01: 0/24 (4.4%),4.9,
+PROMPT000058,VP000021,2025-04-30 16:30:43,Dự báo chi phí BHXH nếu tăng biên chế 14% chi nhánh SG,Grok 3,Chi phí BHXH SG tăng từ ~256M lên ~287M VND nếu tăng 4.5% biên chế,1.9,
+PROMPT000059,VP000039,2025-06-02 11:17:56,Tính bonus trung bình phòng GD chi nhánh DN tháng 2025-06-01,Grok 3,Bonus trung bình DN_GD tháng 2025-06-01: ~0.6M VND/người,8.7,Positive
+PROMPT000060,VP000052,2025-03-17 15:22:38,KPI trung bình của phòng GD chi nhánh SG tháng 2025-03-01,Grok 3,KPI trung bình SG_GD tháng 2025-03-01: 81.2 (5 nhân viên),7.2,
+PROMPT000061,VP000002,2025-02-03 10:12:10,Kế hoạch tuyển mới chi nhánh DN tháng 2025-02-01,Grok 3,"Kế hoạch tuyển mới DN tháng 2025-02-01: 10 KH, 10 KT, 0 GD",6.6,
+PROMPT000062,VP000027,2025-06-26 15:34:48,KPI trung bình của phòng KT chi nhánh DN tháng 2025-06-01,Grok 3,KPI trung bình DN_KT tháng 2025-06-01: 79.4 (8 nhân viên),9.4,
+PROMPT000063,VP000060,2025-05-19 11:11:47,Tính bonus trung bình phòng KT chi nhánh DN tháng 2025-05-01,Grok 3,Bonus trung bình DN_KT tháng 2025-05-01: ~1.9M VND/người,5.4,
+PROMPT000064,VP000029,2025-02-04 08:30:33,Dự báo chi phí BHXH nếu tăng biên chế 10% chi nhánh SG,Grok 3,Chi phí BHXH SG tăng từ ~101M lên ~314M VND nếu tăng 4.9% biên chế,6.6,Positive
+PROMPT000065,VP000014,2025-03-04 09:07:55,Tính bonus trung bình phòng GD chi nhánh HN tháng 2025-03-01,Grok 3,Bonus trung bình HN_GD tháng 2025-03-01: ~1.3M VND/người,7.7,
+PROMPT000066,VP000053,2025-05-05 13:08:20,Đánh giá hiệu quả đào tạo chi nhánh SG tháng 2025-05-01,Grok 3,"Chi phí đào tạo SG tháng 2025-05-01: ~111M VND, 4.7% nhân viên G2 tham gia",9.0,
+PROMPT000067,VP000030,2025-05-01 11:19:27,Dự đoán chi phí lương CT_GD nếu tăng lương 12%,Grok 3,"Tổng chi phí lương CT_GD tháng 2025-05-01: ~138M VND, tăng 4.3% lên ~198M VND",5.8,
+PROMPT000068,VP000068,2025-02-06 09:33:38,So sánh KPI trưởng phòng KT các chi nhánh tháng 2025-02-01,Grok 3,"KPI trưởng phòng KT tháng 2025-02-01: HCM=82.5, HN=82.0, SG=81.3, DN=82.3, CT=81.3",7.4,Positive
+PROMPT000069,VP000061,2025-06-09 13:48:37,So sánh hiệu suất nhân viên G3 chi nhánh HN tháng 2025-06-01,Grok 3,HN_GD G3: KPI trung bình 75.9; DN_GD G3: KPI trung bình 76.2,2.7,
+PROMPT000070,VP000059,2025-01-30 09:10:07,Tính bonus trung bình phòng GD chi nhánh HCM tháng 2025-01-01,Grok 3,Bonus trung bình HCM_GD tháng 2025-01-01: ~0.7M VND/người,4.6,
+PROMPT000071,VP000021,2025-04-15 14:42:55,Dự đoán chi phí lương SG_KT nếu tăng lương 9%,Grok 3,"Tổng chi phí lương SG_KT tháng 2025-04-01: ~134M VND, tăng 4.4% lên ~270M VND",4.7,
+PROMPT000072,VP000038,2025-02-03 15:41:01,KPI trung bình của phòng KT chi nhánh HN tháng 2025-02-01,Grok 3,KPI trung bình HN_KT tháng 2025-02-01: 75.6 (7 nhân viên),6.7,Neutral
+PROMPT000073,VP000052,2025-06-25 13:45:01,Đánh giá hiệu quả đào tạo chi nhánh HN tháng 2025-06-01,Grok 3,"Chi phí đào tạo HN tháng 2025-06-01: ~236M VND, 5.0% nhân viên G4 tham gia",9.7,
+PROMPT000074,VP000011,2025-05-06 16:01:51,KPI trung bình của phòng KT chi nhánh CT tháng 2025-05-01,Grok 3,KPI trung bình CT_KT tháng 2025-05-01: 72.5 (6 nhân viên),8.8,
+PROMPT000075,VP000066,2025-02-21 13:46:29,So sánh hiệu suất nhân viên G4 chi nhánh CT tháng 2025-02-01,Grok 3,CT_KT G4: KPI trung bình 70.6; SG_KT G4: KPI trung bình 77.2,6.6,
+PROMPT000076,VP000056,2025-01-17 12:31:47,Phân tích tỷ lệ nghỉ việc chi nhánh HCM tháng 2025-01-01,Grok 3,Tỷ lệ nghỉ việc HCM tháng 2025-01-01: 0/24 (5.9%),3.6,
+PROMPT000077,VP000030,2025-05-07 09:37:31,So sánh KPI trưởng phòng KH các chi nhánh tháng 2025-05-01,Grok 3,"KPI trưởng phòng KH tháng 2025-05-01: HCM=82.9, HN=84.8, SG=83.8, DN=83.0, CT=84.3",1.4,
+PROMPT000078,VP000007,2025-06-27 09:48:05,Phân tích tỷ lệ nghỉ việc chi nhánh HN tháng 2025-06-01,Grok 3,Tỷ lệ nghỉ việc HN tháng 2025-06-01: 0/22 (4.3%),7.4,
+PROMPT000080,VP000068,2025-06-30 15:17:05,Phân tích biến động nhân sự chi nhánh HCM tháng 2025-06-01,Grok 3,"Headcount_end HCM tháng 2025-06-01: GD=3, KH=10, KT=10; hired=0, resigned=0",8.4,
+PROMPT000081,VP000033,2025-04-23 08:46:30,Tính bonus trung bình phòng GD chi nhánh HCM tháng 2025-04-01,Grok 3,Bonus trung bình HCM_GD tháng 2025-04-01: ~1.3M VND/người,1.9,
+PROMPT000083,VP000002,2025-01-24 14:26:07,KPI trung bình của phòng KT chi nhánh SG tháng 2025-01-01,Grok 3,KPI trung bình SG_KT tháng 2025-01-01: 77.7 (7 nhân viên),8.6,
+PROMPT000085,VP000066,2025-01-24 15:47:37,Phân tích biến động nhân sự chi nhánh SG tháng 2025-01-01,Grok 3,"Headcount_end SG tháng 2025-01-01: GD=3, KH=8, KT=11; hired=1, resigned=0",2.5,Positive
+PROMPT000086,VP000061,2025-01-21 10:04:24,Dự báo chi phí BHXH nếu tăng biên chế 13% chi nhánh HCM,Grok 3,Chi phí BHXH HCM tăng từ ~196M lên ~274M VND nếu tăng 4.9% biên chế,1.4,Positive
+PROMPT000087,VP000060,2025-01-07 08:46:31,Tính bonus trung bình phòng KH chi nhánh HCM tháng 2025-01-01,Grok 3,Bonus trung bình HCM_KH tháng 2025-01-01: ~1.2M VND/người,8.8,Positive
+PROMPT000088,VP000042,2025-03-20 12:59:18,KPI trung bình của phòng GD chi nhánh HCM tháng 2025-03-01,Grok 3,KPI trung bình HCM_GD tháng 2025-03-01: 83.4 (10 nhân viên),1.5,
+PROMPT000089,VP000058,2025-04-04 13:24:42,Dự đoán chi phí lương HN_KH nếu tăng lương 9%,Grok 3,"Tổng chi phí lương HN_KH tháng 2025-04-01: ~122M VND, tăng 4.7% lên ~219M VND",8.9,
+PROMPT000090,VP000049,2025-04-28 10:31:06,Phân tích biến động nhân sự chi nhánh CT tháng 2025-04-01,Grok 3,"Headcount_end CT tháng 2025-04-01: GD=3, KH=9, KT=11; hired=2, resigned=0",3.9,
+PROMPT000091,VP000007,2025-04-07 09:24:53,KPI trung bình của phòng KT chi nhánh HCM tháng 2025-04-01,Grok 3,KPI trung bình HCM_KT tháng 2025-04-01: 73.1 (6 nhân viên),6.7,Neutral
+PROMPT000092,VP000025,2025-04-07 12:06:48,Phân tích biến động nhân sự chi nhánh HCM tháng 2025-04-01,Grok 3,"Headcount_end HCM tháng 2025-04-01: GD=3, KH=10, KT=9; hired=2, resigned=0",5.1,
+PROMPT000093,VP000008,2025-04-08 15:16:17,Tính bonus trung bình phòng KT chi nhánh CT tháng 2025-04-01,Grok 3,Bonus trung bình CT_KT tháng 2025-04-01: ~1.2M VND/người,4.7,
+PROMPT000094,VP000010,2025-05-02 09:18:35,Dự đoán chi phí lương SG_GD nếu tăng lương 7%,Grok 3,"Tổng chi phí lương SG_GD tháng 2025-05-01: ~269M VND, tăng 4.5% lên ~206M VND",6.5,
+PROMPT000095,VP000064,2025-01-27 16:01:11,Dự báo chi phí BHXH nếu tăng biên chế 12% chi nhánh SG,Grok 3,Chi phí BHXH SG tăng từ ~181M lên ~307M VND nếu tăng 5.5% biên chế,4.7,
+PROMPT000096,VP000031,2025-02-27 09:33:08,KPI trung bình của phòng KH chi nhánh CT tháng 2025-02-01,Grok 3,KPI trung bình CT_KH tháng 2025-02-01: 77.5 (8 nhân viên),8.5,
+PROMPT000097,VP000064,2025-01-28 11:08:30,Kế hoạch tuyển mới chi nhánh DN tháng 2025-01-01,Grok 3,"Kế hoạch tuyển mới DN tháng 2025-01-01: 10 KH, 10 KT, 0 GD",4.4,
+PROMPT000098,VP000005,2025-06-10 10:29:14,Phân tích tỷ lệ nghỉ việc chi nhánh HCM tháng 2025-06-01,Grok 3,Tỷ lệ nghỉ việc HCM tháng 2025-06-01: 0/24 (5.9%),8.0,
+PROMPT000099,VP000035,2025-02-07 08:48:48,Kế hoạch tuyển mới chi nhánh HN tháng 2025-02-01,Grok 3,"Kế hoạch tuyển mới HN tháng 2025-02-01: 9 KH, 11 KT, 0 GD",7.6,Neutral
+PROMPT000100,VP000029,2025-03-10 14:17:07,Phân tích tỷ lệ nghỉ việc chi nhánh CT tháng 2025-03-01,Grok 3,Tỷ lệ nghỉ việc CT tháng 2025-03-01: 0/22 (5.2%),4.5,

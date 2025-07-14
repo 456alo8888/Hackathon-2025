@@ -1,0 +1,4 @@
+scenario_id,cycle_id,scenario_name,projected_gdp,inflation_rate,avg_salary_increase_pct,new_branch_plan,notes
+SCEN000001,CYCLE2025H1,baseline,7.5,4.5,7.0,0,Duy trì hoạt động ổn định, dự kiến tăng trưởng tín dụng 12%
+SCEN000002,CYCLE2025H1,growth,8.5,5.0,10.0,2,Mở rộng tín dụng 15%, mở thêm chi nhánh Hải Phòng và Nha Trang
+SCEN000003,CYCLE2025H1,cost-cut,6.0,4.0,3.0,0,Giảm chi phí vận hành 10%, hạn chế tuyển mới
